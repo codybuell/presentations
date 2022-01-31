@@ -23,8 +23,8 @@ Run
 lookatme --no-ext-warn [presentation].md             # run presentation
 lookatme --no-ext-warn --live [presentation].md      # live update
 ```
-Sources / Tools
----------------
+Resources / Tools
+-----------------
 
 - [lookatme](https://github.com/d0c-s4vage/lookatme) CLI presentation tool.
 - [DOT Language](https://graphviz.org/doc/info/lang.html) Graph syntax supported by grapheasy plugin.
